@@ -6,7 +6,7 @@ This project basically analyzes the sales data from Diwali season to see and und
 ## Installation
 ### Step 1: Clone the Repository:
 ```bash
-git clone https://github.com/SakshiPathare/diwali-sales-analysis.git
+git clone https://github.com/SakshiPathare/Python_Diwali_Sales_Analysis_Project.git
 ```
 ### Step 2: Install required libraries:
 ```
