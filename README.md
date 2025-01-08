@@ -24,5 +24,5 @@ This project basically analyzes the sales data from Diwali season to see and und
   - Gender & Age Analysis: Identified sales patterns by gender and age groups, highlighting married women aged 26-30 as prime buyers.
   - State-Wise Analysis: Determined high-performing states like UP, Maharashtra, and Karnataka.
   - Industry & Product Categories: Discovered top-performing industries (e.g., IT, Healthcare, Aviation) and the most purchased product categories: Food, Clothing, and Electronics.
-Visualizations:
+- Visualizations:
   - Created various plots (e.g., Count, Bar) to visually analyze and present insights.
