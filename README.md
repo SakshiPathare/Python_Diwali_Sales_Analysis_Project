@@ -3,6 +3,10 @@
 ## Overview
 This project basically analyzes the sales data from Diwali season to see and understand the customer behavior and identify trends. It majorly focuses on which gender, age group, different states and product categories are contributing to higher sales.
 
+## Installation
+### Step 1: Clone the Repository
+git clone https://github.com/SakshiPathare/diwali-sales-analysis.git
+
 ## Dataset
 - **Records**: 11,252 rows
 - **Attributes**: 15 attributes, including User_ID, Cust_name, Product_ID, Gender, Age Group, Age, Marital_Status, State, Zone, Occupation, Product_Category, Orders, Amount, Status, unnamed1
