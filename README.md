@@ -1,4 +1,4 @@
-# Python Diwali Sales Analysis
+# Diwali Sales Analysis using Python
 
 ## Overview
 This project basically analyzes the sales data from Diwali season to see and understand the customer behavior and identify trends. It majorly focuses on which gender, age group, different states and product categories are contributing to higher sales.
